@@ -143,7 +143,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 ## Contact
 
-[Telegram](https://t.me/arian_crypto)
+[Telegram](https://t.me/cryptoking_cto)
 
 ## Disclaimer
 
